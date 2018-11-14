@@ -1,0 +1,15 @@
+c:\users\annou\Source\Repos\CodingChallenges\CodingChallenges\bin\Debug\CodingChallenges.exe.config
+c:\users\annou\Source\Repos\CodingChallenges\CodingChallenges\bin\Debug\CodingChallenges.exe
+c:\users\annou\Source\Repos\CodingChallenges\CodingChallenges\bin\Debug\CodingChallenges.pdb
+c:\users\annou\Source\Repos\CodingChallenges\CodingChallenges\obj\Debug\CodingChallenges.csprojAssemblyReference.cache
+c:\users\annou\Source\Repos\CodingChallenges\CodingChallenges\obj\Debug\MainWindow.g.cs
+c:\users\annou\Source\Repos\CodingChallenges\CodingChallenges\obj\Debug\App.g.cs
+c:\users\annou\Source\Repos\CodingChallenges\CodingChallenges\obj\Debug\CodingChallenges_MarkupCompile.cache
+c:\users\annou\Source\Repos\CodingChallenges\CodingChallenges\obj\Debug\CodingChallenges_MarkupCompile.lref
+c:\users\annou\Source\Repos\CodingChallenges\CodingChallenges\obj\Debug\MainWindow.baml
+c:\users\annou\Source\Repos\CodingChallenges\CodingChallenges\obj\Debug\CodingChallenges.g.resources
+c:\users\annou\Source\Repos\CodingChallenges\CodingChallenges\obj\Debug\CodingChallenges.Properties.Resources.resources
+c:\users\annou\Source\Repos\CodingChallenges\CodingChallenges\obj\Debug\CodingChallenges.csproj.GenerateResource.cache
+c:\users\annou\Source\Repos\CodingChallenges\CodingChallenges\obj\Debug\CodingChallenges.csproj.CoreCompileInputs.cache
+c:\users\annou\Source\Repos\CodingChallenges\CodingChallenges\obj\Debug\CodingChallenges.exe
+c:\users\annou\Source\Repos\CodingChallenges\CodingChallenges\obj\Debug\CodingChallenges.pdb

@@ -1,0 +1,15 @@
+C:\Users\annou\Source\Repos\CodingChallenges\BinaryChallenge\bin\Debug\BinaryChallenge.exe.config
+C:\Users\annou\Source\Repos\CodingChallenges\BinaryChallenge\bin\Debug\BinaryChallenge.exe
+C:\Users\annou\Source\Repos\CodingChallenges\BinaryChallenge\bin\Debug\BinaryChallenge.pdb
+C:\Users\annou\Source\Repos\CodingChallenges\BinaryChallenge\obj\Debug\BinaryChallenge.csprojAssemblyReference.cache
+C:\Users\annou\Source\Repos\CodingChallenges\BinaryChallenge\obj\Debug\MainWindow.g.cs
+C:\Users\annou\Source\Repos\CodingChallenges\BinaryChallenge\obj\Debug\App.g.cs
+C:\Users\annou\Source\Repos\CodingChallenges\BinaryChallenge\obj\Debug\BinaryChallenge_MarkupCompile.cache
+C:\Users\annou\Source\Repos\CodingChallenges\BinaryChallenge\obj\Debug\BinaryChallenge_MarkupCompile.lref
+C:\Users\annou\Source\Repos\CodingChallenges\BinaryChallenge\obj\Debug\MainWindow.baml
+C:\Users\annou\Source\Repos\CodingChallenges\BinaryChallenge\obj\Debug\BinaryChallenge.g.resources
+C:\Users\annou\Source\Repos\CodingChallenges\BinaryChallenge\obj\Debug\BinaryChallenge.Properties.Resources.resources
+C:\Users\annou\Source\Repos\CodingChallenges\BinaryChallenge\obj\Debug\BinaryChallenge.csproj.GenerateResource.cache
+C:\Users\annou\Source\Repos\CodingChallenges\BinaryChallenge\obj\Debug\BinaryChallenge.csproj.CoreCompileInputs.cache
+C:\Users\annou\Source\Repos\CodingChallenges\BinaryChallenge\obj\Debug\BinaryChallenge.exe
+C:\Users\annou\Source\Repos\CodingChallenges\BinaryChallenge\obj\Debug\BinaryChallenge.pdb
