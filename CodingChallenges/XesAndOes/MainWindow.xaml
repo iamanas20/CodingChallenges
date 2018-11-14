@@ -1,0 +1,19 @@
+﻿<Window x:Class="XesAndOes.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:XesAndOes"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+            <TextBlock HorizontalAlignment="Center" Margin="0,50,0,0" FontFamily="Google Sans" FontSize="48">X's and O's are equal</TextBlock>
+            <StackPanel Margin="0,25,0,0" Orientation="Horizontal" HorizontalAlignment="Center">
+             <TextBlock FontFamily="Google Sans">Text</TextBlock>
+                <TextBox Name="TextBox" Margin="10,0,0,0" FontFamily="Google" MinWidth="120"></TextBox>
+            </StackPanel>
+            <Button HorizontalAlignment="Center" Margin="0,20,0,0" FontFamily="Google Sans" Padding="5" Click="Button_Click">Submit</Button>
+        </StackPanel>
+    </Grid>
+</Window>
